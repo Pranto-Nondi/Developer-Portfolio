@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Navsection  */
+.nav-container {}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 100%;
+    align-items: center;
+
+
+}
+
+.heading-title {
+    font-weight: 800;
+    font-size: 30px;
+    color: #181818;
+    margin-left: 150px;
+
+}
+
+.span-color {
+    color: orangered;
+
+}
+
+.nav-right-size {
+    margin-right: 150px;
+}
+
+.nav-right-size a {
+    font-weight: 400;
+    font-size: 20px;
+    color: #474747;
+    text-decoration: none;
+    padding: 0 20px;
+
+
+}
+
+.primary-btn {
+    color: #FFFFFF;
+    background-color: orangered;
+    padding: 10px 20px;
+    font-weight: 800;
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 1px;
+
+
+}
