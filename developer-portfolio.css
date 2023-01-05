@@ -4,6 +4,8 @@
 }
 
 /* Navsection  */
+.header-container {}
+
 .nav-container {}
 
 .navbar {
@@ -53,4 +55,59 @@
     margin-bottom: 1px;
 
 
+}
+
+/* banner part */
+.banner-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(163, 184, 223);
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+
+.banner-title {
+    margin-top: 8px;
+    margin-bottom: 5px;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.banner-descrip {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.banner-left-side {
+    margin-top: 180px;
+}
+
+.banner-heading {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.banner-descrip {
+    font-weight: 300;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.secondary-btn {
+    color: #FFFFFF;
+    background-color: darkkhaki;
+    padding: 10px 20px;
+    font-weight: 800;
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 1px;
+    margin-left: 10px;
+ 
+
+}
+.btn {
+    
 }
