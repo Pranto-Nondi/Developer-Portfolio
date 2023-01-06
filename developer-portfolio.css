@@ -216,9 +216,9 @@
 .card {
     display: grid;
     grid-template-rows: max-content 200px 1fr;
-    background-color: rgb(219, 215, 213);
+    background-color: rgb(245, 238, 234);
     padding: 10px 20px;
-    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    box-shadow: 0px 6px 50px rgba(65, 63, 63, 0.06);
     border-radius: 5px;
 
 
