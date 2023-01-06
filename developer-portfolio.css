@@ -1,8 +1,7 @@
 * {
-    margin:0;
+    margin: 0;
     font-family: 'Open Sans', sans-serif;
-    
-    
+
 }
 
 /* Navsection  */
@@ -11,14 +10,10 @@
     background-position: left;
     background-repeat: no-repeat;
     background-color: hsl(30, 29%, 91%);
-   
-   
+
 }
 
-.nav-container {
-   
-    
-}
+.nav-container {}
 
 .navbar {
     display: flex;
@@ -137,4 +132,54 @@
     height: 40%;
 
 
+}
+
+/* about me part */
+.about-container {
+
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #f7f2ef;
+    padding-top: 140px;
+    width: 920px;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.about-heading-part {
+    text-align: center;
+}
+
+.about-heading {
+    padding-bottom: 20px;
+}
+
+.about-addres {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+
+
+
+}
+
+.about-descrip {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: 90;
+    font-size: 15px;
+    padding: 0 100px;
+    padding-bottom: 20px;
+
+
+}
+
+.addres-name {
+    padding-left: 25px;
 }
